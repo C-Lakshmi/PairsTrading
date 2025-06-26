@@ -49,9 +49,7 @@ Design a market-neutral trading strategy that capitalizes on the strong cointegr
 
 - **Z-Score of Spread**  
   - Computed using a 14-day rolling mean and standard deviation.  
-  \[
-  Z = \frac{\text{Spread}_t - \mu}{\sigma}
-  \]
+    - Z = (Spreadₜ − μ) / σ
 
 - **Trade Entry/Exit Logic**  
   - Enter long–short positions based on Z-score thresholds.
