@@ -67,7 +67,7 @@ Design a market-neutral trading strategy that capitalizes on the strong cointegr
 - **Maximum Drawdown**: −14.47%  
 - **Trade Frequency**: ~77 trades per year
 
-> ✅ Strategy demonstrates strong excess return per unit of volatility and effective drawdown recovery. Most volatility comes from profitable upward movement.
+> Strategy demonstrates strong excess return per unit of volatility and effective drawdown recovery. Most volatility comes from profitable upward movement.
 
 ---
 
